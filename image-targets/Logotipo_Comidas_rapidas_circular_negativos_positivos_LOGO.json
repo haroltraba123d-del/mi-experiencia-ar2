@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Logotipo_Comidas_rapidas_circular_negativos_positivos_LOGO_luminance.png",
+  "resources": {
+    "originalImage": "Logotipo_Comidas_rapidas_circular_negativos_positivos_LOGO_original.png",
+    "croppedImage": "Logotipo_Comidas_rapidas_circular_negativos_positivos_LOGO_cropped.png",
+    "thumbnailImage": "Logotipo_Comidas_rapidas_circular_negativos_positivos_LOGO_thumbnail.png",
+    "luminanceImage": "Logotipo_Comidas_rapidas_circular_negativos_positivos_LOGO_luminance.png"
+  },
+  "name": "Logotipo_Comidas_rapidas_circular_negativos_positivos_LOGO",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 361,
+    "left": 0,
+    "width": 3209,
+    "height": 4279,
+    "isRotated": true,
+    "originalWidth": 3209,
+    "originalHeight": 5000
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795303007348,
+  "updated": 1795303007348
+}

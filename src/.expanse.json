@@ -1,0 +1,1242 @@
+{
+  "entrySpaceId": "78c8162a-6a6f-4bca-8b0e-4b85598f31b0",
+  "objects": {
+    "02f94358-847a-42d2-a809-819e4c553b8d": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.721,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.4,
+        "height": 1
+      },
+      "id": "02f94358-847a-42d2-a809-819e4c553b8d",
+      "material": {
+        "type": "basic",
+        "color": "#dc9f28",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Cuello",
+      "order": 1.847496252205798,
+      "parentId": "7e4b1474-90fb-4311-976c-9f5772402ddd",
+      "position": [
+        -1.5454545454545452,
+        -0.1818181818181818,
+        4.181818181818181
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.3420201433256687,
+        0.9396926207859084
+      ],
+      "scale": [
+        0.5454545454545454,
+        1.4545454545454546,
+        0.5454545454545454
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "06f606ee-3e2c-4365-bac5-cbb9b8ef1087": {
+      "components": {},
+      "geometry": null,
+      "id": "06f606ee-3e2c-4365-bac5-cbb9b8ef1087",
+      "light": {
+        "type": "directional",
+        "intensity": 1.2,
+        "color": "#fff0c9"
+      },
+      "material": null,
+      "name": "Luz direccional",
+      "order": 2.5,
+      "parentId": "78c8162a-6a6f-4bca-8b0e-4b85598f31b0",
+      "position": [
+        20,
+        50,
+        10
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "0b5118cc-032a-4412-803d-20b422c17b69": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.24,
+            "demora": 0.16,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "0b5118cc-032a-4412-803d-20b422c17b69",
+      "material": {
+        "type": "basic",
+        "color": "#fff3cf",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Uña der 3",
+      "order": 2.186502258978743,
+      "parentId": "garra2",
+      "position": [
+        0.1,
+        -0.14,
+        0.05
+      ],
+      "rotation": [
+        0.9763825861650423,
+        -0.12854320606946854,
+        0.022665635416815426,
+        0.1721625934348046
+      ],
+      "scale": [
+        0.05,
+        0.22,
+        0.05
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "0b8f75be-75ad-40ee-a111-d8d585f0b976": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.489,
+            "demora": 0.56,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "0b8f75be-75ad-40ee-a111-d8d585f0b976",
+      "material": {
+        "type": "basic",
+        "color": "#f5cd63",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Cresta 2",
+      "order": 7.82427402871598,
+      "parentId": "90be3f8c-41cd-4621-9fc0-c597e2ac8b7a",
+      "position": [
+        -3.065998039244407e-16,
+        1.5429260765634747,
+        3.773694828920554
+      ],
+      "rotation": [
+        0.7967262083790821,
+        -0.14048432677478684,
+        -0.10206783792008485,
+        -0.5788554735638642
+      ],
+      "scale": [
+        0.36363636363636365,
+        1,
+        0.36363636363636365
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "106b591a-83cf-4b70-9fda-2b290a2e8603": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.24,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "106b591a-83cf-4b70-9fda-2b290a2e8603",
+      "material": {
+        "type": "basic",
+        "color": "#fff3cf",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Uña der 1",
+      "order": 0.18650225897874273,
+      "parentId": "garra2",
+      "position": [
+        -0.1,
+        -0.14,
+        0.05
+      ],
+      "rotation": [
+        0.9763825861650423,
+        0.12854320606946854,
+        -0.022665635416815426,
+        0.1721625934348046
+      ],
+      "scale": [
+        0.05,
+        0.22,
+        0.05
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "131296c8-d9fb-4e97-9a26-663ad621e6f2": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.34,
+            "demora": 0.08,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.5
+      },
+      "id": "131296c8-d9fb-4e97-9a26-663ad621e6f2",
+      "material": {
+        "type": "basic",
+        "color": "#f0c04a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Escama 2",
+      "order": 1.82427402871598,
+      "parentId": "90be3f8c-41cd-4621-9fc0-c597e2ac8b7a",
+      "position": [
+        1.4481059850941345,
+        0.10251649326037009,
+        5.518517924644175
+      ],
+      "rotation": [
+        0.5523374641860204,
+        -0.20103439623378594,
+        0.2767001083690212,
+        0.7602272997045328
+      ],
+      "scale": [
+        0.4727272727272727,
+        0.4727272727272727,
+        0.2545454545454546
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "15bb36db-a22f-4806-a866-4823d3b0871b": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.468,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "torus",
+        "radius": 0.5,
+        "tubeRadius": 0.18
+      },
+      "id": "15bb36db-a22f-4806-a866-4823d3b0871b",
+      "material": {
+        "type": "basic",
+        "color": "#e8b53a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Banda",
+      "order": 0.8304212790477579,
+      "parentId": "fc5dc84a-5bda-4812-89c9-1b881023c390",
+      "position": [
+        0.764819660927863,
+        -2.1013247483542443,
+        -0.8842992639441472
+      ],
+      "rotation": [
+        -0.5788554735638642,
+        -0.10206783792008485,
+        0.14048432677478684,
+        0.7967262083790821
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "1608464f-cb1d-4ca3-9690-800ed7435a49": {
+      "components": {},
+      "geometry": null,
+      "id": "1608464f-cb1d-4ca3-9690-800ed7435a49",
+      "imageTarget": {
+        "name": "Logotipo_Comidas_rapidas_circular_negativos_positivos_LOGO"
+      },
+      "material": null,
+      "name": "Marcador · Logotipo_Comidas_rapidas_circular_negativos_positivos_LOGO",
+      "order": 3.5,
+      "parentId": "78c8162a-6a6f-4bca-8b0e-4b85598f31b0",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "20745b3c-37bf-4d9a-9d29-b2a00148826a": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.34,
+            "demora": 0.24,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.5
+      },
+      "id": "20745b3c-37bf-4d9a-9d29-b2a00148826a",
+      "material": {
+        "type": "basic",
+        "color": "#f0c04a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Escama 4",
+      "order": 3.8242740287159798,
+      "parentId": "90be3f8c-41cd-4621-9fc0-c597e2ac8b7a",
+      "position": [
+        -1.7768733193042634,
+        -0.0728770215010287,
+        4.9787121917357124
+      ],
+      "rotation": [
+        0.10206783792008488,
+        -0.5788554735638642,
+        0.7967262083790821,
+        0.1404843267747869
+      ],
+      "scale": [
+        0.4727272727272727,
+        0.4727272727272727,
+        0.2545454545454546
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "22200b91-ecec-47cc-8622-c263af7a070e": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.75,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 0.5625,
+        "height": 1
+      },
+      "id": "22200b91-ecec-47cc-8622-c263af7a070e",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/gemini_generated_video_c1e5d5d6.mp4"
+        }
+      },
+      "name": "gemini_generated_video_c1e5d5d6",
+      "order": 0.8592446397667175,
+      "parentId": "1608464f-cb1d-4ca3-9690-800ed7435a49",
+      "position": [
+        0,
+        0,
+        0.059
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1.855,
+        1.855,
+        1.855
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "2260195d-df11-4b70-b927-b7b0f9ac522c": {
+      "components": {},
+      "geometry": null,
+      "id": "2260195d-df11-4b70-b927-b7b0f9ac522c",
+      "light": {
+        "type": "ambient",
+        "intensity": 0.18,
+        "color": "#b9c6ff"
+      },
+      "material": null,
+      "name": "Luz ambiental",
+      "order": 1.5,
+      "parentId": "78c8162a-6a6f-4bca-8b0e-4b85598f31b0",
+      "position": [
+        10,
+        5,
+        5
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "2261c5f3-d354-4937-9eb9-7ad7b7d8d42c": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.598,
+            "demora": 0.08,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "torus",
+        "radius": 0.5,
+        "tubeRadius": 0.18
+      },
+      "id": "2261c5f3-d354-4937-9eb9-7ad7b7d8d42c",
+      "material": {
+        "type": "basic",
+        "color": "#dfa82c",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Cuerpo",
+      "order": 1.8304212790477579,
+      "parentId": "fc5dc84a-5bda-4812-89c9-1b881023c390",
+      "position": [
+        0.764819660927863,
+        -2.1013247483542443,
+        -0.8842992639441472
+      ],
+      "rotation": [
+        -0.5788554735638642,
+        -0.10206783792008485,
+        0.14048432677478684,
+        0.7967262083790821
+      ],
+      "scale": [
+        0.5335,
+        0.5335,
+        1.045
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "31506a01-2a7a-4aca-813e-377e39e2bc4c": {
+      "components": {},
+      "geometry": null,
+      "id": "31506a01-2a7a-4aca-813e-377e39e2bc4c",
+      "material": null,
+      "name": "Cabeza",
+      "order": 2.847496252205798,
+      "parentId": "7e4b1474-90fb-4311-976c-9f5772402ddd",
+      "position": [
+        -2.218181818181818,
+        0.4909090909090909,
+        5
+      ],
+      "rotation": [
+        -0.01815117716075269,
+        -0.1726969147805622,
+        0.10294044103643694,
+        0.9794128730990714
+      ],
+      "scale": [
+        1.8181818181818181,
+        1.8181818181818181,
+        1.8181818181818181
+      ]
+    },
+    "4d7d980d-e2cf-4e7e-95d5-cddf88d57c98": {
+      "components": {},
+      "geometry": null,
+      "id": "4d7d980d-e2cf-4e7e-95d5-cddf88d57c98",
+      "light": {
+        "type": "point",
+        "intensity": 12,
+        "color": "#ffe1a8"
+      },
+      "material": null,
+      "name": "Luz clave cálida",
+      "order": 3.186502258978743,
+      "parentId": "garra2",
+      "position": [
+        -1.2,
+        2.6,
+        -1.6
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "5e3ec667-a3dc-4222-a3f5-fbab16510648": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.24,
+            "demora": 0.08,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "box",
+        "width": 1,
+        "height": 1,
+        "depth": 1
+      },
+      "id": "5e3ec667-a3dc-4222-a3f5-fbab16510648",
+      "material": {
+        "type": "basic",
+        "color": "#e8b53a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Hocico",
+      "order": 1.565177058992246,
+      "parentId": "31506a01-2a7a-4aca-813e-377e39e2bc4c",
+      "position": [
+        0.20690078888237923,
+        -0.34250157399224224,
+        -2.8153601431029545
+      ],
+      "rotation": [
+        0.01815117716075269,
+        0.1726969147805622,
+        -0.10294044103643694,
+        0.9794128730990714
+      ],
+      "scale": [
+        0.231,
+        0.14300000000000002,
+        0.231
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "5e433a2f-6325-4832-b426-c1a938ce495e": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.34,
+            "demora": 0.16,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.5
+      },
+      "id": "5e433a2f-6325-4832-b426-c1a938ce495e",
+      "material": {
+        "type": "basic",
+        "color": "#f0c04a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Escama 3",
+      "order": 2.8242740287159798,
+      "parentId": "90be3f8c-41cd-4621-9fc0-c597e2ac8b7a",
+      "position": [
+        -0.3287673342101285,
+        0.3023667444866143,
+        6.133593752743525
+      ],
+      "rotation": [
+        0.3778210773300783,
+        -0.45026962626593553,
+        0.619742972929746,
+        0.520026100010061
+      ],
+      "scale": [
+        0.4727272727272727,
+        0.4727272727272727,
+        0.2545454545454546
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "713ca763-882c-442b-b79a-e9c118724d56": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.24,
+            "demora": 0.08,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "713ca763-882c-442b-b79a-e9c118724d56",
+      "material": {
+        "type": "basic",
+        "color": "#fff3cf",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Uña der 2",
+      "order": 1.1865022589787428,
+      "parentId": "garra2",
+      "position": [
+        0,
+        -0.15,
+        0.08
+      ],
+      "rotation": [
+        0.9961946980917455,
+        0,
+        0,
+        0.08715574274765814
+      ],
+      "scale": [
+        0.05,
+        0.24,
+        0.05
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "77daf436-e2ac-4e80-bfc5-b254be08b430": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.34,
+            "demora": 0.32,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.5
+      },
+      "id": "77daf436-e2ac-4e80-bfc5-b254be08b430",
+      "material": {
+        "type": "basic",
+        "color": "#f0c04a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Escama 5",
+      "order": 4.82427402871598,
+      "parentId": "90be3f8c-41cd-4621-9fc0-c597e2ac8b7a",
+      "position": [
+        -1.4481059850941347,
+        -0.647971038714916,
+        3.2087548026285506
+      ],
+      "rotation": [
+        -0.20103439623378588,
+        -0.5523374641860204,
+        0.7602272997045328,
+        -0.2767001083690211
+      ],
+      "scale": [
+        0.4727272727272727,
+        0.4727272727272727,
+        0.2545454545454546
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "7e4b1474-90fb-4311-976c-9f5772402ddd": {
+      "components": {},
+      "geometry": null,
+      "id": "7e4b1474-90fb-4311-976c-9f5772402ddd",
+      "material": null,
+      "name": "Dragón dorado",
+      "order": 5.186502258978743,
+      "parentId": "garra2",
+      "position": [
+        0,
+        0.15,
+        -2.4
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "83f90b3c-4c81-46c2-b1dd-85e1822ee914": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.34,
+            "demora": 0.4,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.5
+      },
+      "id": "83f90b3c-4c81-46c2-b1dd-85e1822ee914",
+      "material": {
+        "type": "basic",
+        "color": "#f0c04a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Escama 6",
+      "order": 5.82427402871598,
+      "parentId": "90be3f8c-41cd-4621-9fc0-c597e2ac8b7a",
+      "position": [
+        0.3287673342101281,
+        -0.8478212899411602,
+        2.5936789745292
+      ],
+      "rotation": [
+        -0.4502696262659356,
+        -0.3778210773300782,
+        0.5200261000100608,
+        -0.619742972929746
+      ],
+      "scale": [
+        0.4727272727272727,
+        0.4727272727272727,
+        0.2545454545454546
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "87da4b8e-eb71-4ce8-8dd2-b03c8862461e": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.489,
+            "demora": 0.48,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "cone",
+        "radius": 0.5,
+        "height": 1
+      },
+      "id": "87da4b8e-eb71-4ce8-8dd2-b03c8862461e",
+      "material": {
+        "type": "basic",
+        "color": "#f5cd63",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Cresta 1",
+      "order": 6.82427402871598,
+      "parentId": "90be3f8c-41cd-4621-9fc0-c597e2ac8b7a",
+      "position": [
+        -1.3748940592562183e-16,
+        -2.0883806220180205,
+        4.9535778983521705
+      ],
+      "rotation": [
+        0.5788554735638642,
+        0.10206783792008484,
+        -0.14048432677478684,
+        0.7967262083790821
+      ],
+      "scale": [
+        0.36363636363636365,
+        1,
+        0.36363636363636365
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "90be3f8c-41cd-4621-9fc0-c597e2ac8b7a": {
+      "components": {},
+      "geometry": null,
+      "id": "90be3f8c-41cd-4621-9fc0-c597e2ac8b7a",
+      "material": null,
+      "name": "Escamas",
+      "order": 2.8304212790477576,
+      "parentId": "fc5dc84a-5bda-4812-89c9-1b881023c390",
+      "position": [
+        0.764819660927863,
+        -2.1013247483542443,
+        -0.8842992639441472
+      ],
+      "rotation": [
+        -0.5788554735638642,
+        -0.10206783792008485,
+        0.14048432677478684,
+        0.7967262083790821
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "a011784e-ed50-4757-989c-ef5c53121018": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.24,
+            "demora": 0.16,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.5
+      },
+      "id": "a011784e-ed50-4757-989c-ef5c53121018",
+      "material": {
+        "type": "basic",
+        "color": "#f7e6a8",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Ojo izq",
+      "order": 2.565177058992246,
+      "parentId": "31506a01-2a7a-4aca-813e-377e39e2bc4c",
+      "position": [
+        0.10751292287031508,
+        -0.20891856548584378,
+        -2.804985562246483
+      ],
+      "rotation": [
+        0.01815117716075269,
+        0.1726969147805622,
+        -0.10294044103643694,
+        0.9794128730990714
+      ],
+      "scale": [
+        0.05500000000000001,
+        0.05500000000000001,
+        0.05500000000000001
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "be3f0620-46df-4d69-8ca6-9edc453a0c64": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.34,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.5
+      },
+      "id": "be3f0620-46df-4d69-8ca6-9edc453a0c64",
+      "material": {
+        "type": "basic",
+        "color": "#f0c04a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Escama 1",
+      "order": 0.82427402871598,
+      "parentId": "90be3f8c-41cd-4621-9fc0-c597e2ac8b7a",
+      "position": [
+        1.776873319304263,
+        -0.4725775239535172,
+        3.7485605355370124
+      ],
+      "rotation": [
+        0.5788554735638642,
+        0.10206783792008484,
+        -0.14048432677478684,
+        0.7967262083790821
+      ],
+      "scale": [
+        0.4727272727272727,
+        0.4727272727272727,
+        0.2545454545454546
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "bf8ad845-77fa-4982-9832-67b71322bec8": {
+      "camera": {
+        "type": "perspective",
+        "fov": 60,
+        "nearClip": 0.01,
+        "farClip": 1000,
+        "xr": {
+          "xrCameraType": "world",
+          "phone": "AR",
+          "desktop": "disabled",
+          "headset": "disabled",
+          "direction": "back"
+        }
+      },
+      "components": {},
+      "geometry": null,
+      "id": "bf8ad845-77fa-4982-9832-67b71322bec8",
+      "material": null,
+      "name": "Cámara",
+      "order": 0.5,
+      "parentId": "78c8162a-6a6f-4bca-8b0e-4b85598f31b0",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "cc26084f-f6ff-4a5f-88eb-371e39c9280c": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.24,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.5
+      },
+      "id": "cc26084f-f6ff-4a5f-88eb-371e39c9280c",
+      "material": {
+        "type": "basic",
+        "color": "#e8b53a",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Cráneo",
+      "order": 0.5651770589922461,
+      "parentId": "31506a01-2a7a-4aca-813e-377e39e2bc4c",
+      "position": [
+        0.14523470192623605,
+        -0.30690254949016915,
+        -3.001419282018564
+      ],
+      "rotation": [
+        0.01815117716075269,
+        0.1726969147805622,
+        -0.10294044103643694,
+        0.9794128730990714
+      ],
+      "scale": [
+        0.275,
+        0.24200000000000002,
+        0.275
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "e61c6ecf-137c-4864-bfe7-1940c44894f4": {
+      "components": {},
+      "geometry": null,
+      "id": "e61c6ecf-137c-4864-bfe7-1940c44894f4",
+      "light": {
+        "type": "point",
+        "intensity": 9,
+        "color": "#ffcf6b"
+      },
+      "material": null,
+      "name": "Contraluz oro",
+      "order": 4.186502258978743,
+      "parentId": "garra2",
+      "position": [
+        2.2,
+        1.4,
+        -5.2
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "e8897746-9846-4225-bc29-59a475a39313": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.24,
+            "demora": 0.24,
+            "esGltf": false,
+            "esTextura": false,
+            "esVideo": false
+          }
+        }
+      },
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.5
+      },
+      "id": "e8897746-9846-4225-bc29-59a475a39313",
+      "material": {
+        "type": "basic",
+        "color": "#f7e6a8",
+        "roughness": 0.45,
+        "metalness": 0.05
+      },
+      "name": "Ojo der",
+      "order": 3.565177058992246,
+      "parentId": "31506a01-2a7a-4aca-813e-377e39e2bc4c",
+      "position": [
+        0.3299491788229726,
+        -0.2561988512418937,
+        -2.887754436931295
+      ],
+      "rotation": [
+        0.01815117716075269,
+        0.1726969147805622,
+        -0.10294044103643694,
+        0.9794128730990714
+      ],
+      "scale": [
+        0.05500000000000001,
+        0.05500000000000001,
+        0.05500000000000001
+      ],
+      "shadow": {
+        "castShadow": true,
+        "receiveShadow": true
+      }
+    },
+    "fc5dc84a-5bda-4812-89c9-1b881023c390": {
+      "components": {},
+      "geometry": null,
+      "id": "fc5dc84a-5bda-4812-89c9-1b881023c390",
+      "material": null,
+      "name": "Aro",
+      "order": 0.8474962522057979,
+      "parentId": "7e4b1474-90fb-4311-976c-9f5772402ddd",
+      "position": [
+        0,
+        -0.2727272727272727,
+        4.363636363636363
+      ],
+      "rotation": [
+        0.5788554735638642,
+        0.10206783792008485,
+        -0.14048432677478684,
+        0.7967262083790821
+      ],
+      "scale": [
+        1.8181818181818181,
+        1.8181818181818181,
+        1.8181818181818181
+      ]
+    }
+  },
+  "spaces": {
+    "78c8162a-6a6f-4bca-8b0e-4b85598f31b0": {
+      "activeCamera": "bf8ad845-77fa-4982-9832-67b71322bec8",
+      "id": "78c8162a-6a6f-4bca-8b0e-4b85598f31b0",
+      "name": "Espacio principal"
+    }
+  }
+}
